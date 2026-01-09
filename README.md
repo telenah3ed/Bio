@@ -22,16 +22,6 @@ Access denied ❌ (learning mode enabled)
 $ exit
 Connection closed.
 
-
----
-
-## 🟢 OPTIONAL: Animated Command Typing (Advanced)
-
-GitHub doesn’t support **real terminal animation**, but you can **simulate it** using a typing SVG.
-
-### Add this right under **Terminal Access**:
-
-```md
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=600&color=00FF00&center=true&vCenter=true&width=700&lines=%24+whoami;telenah3ed;%24+ls+projects;python-practice+cybersecurity-notes+linux-labs;%24+echo+%22Matrix+Mode+Enabled%22" />
 </p>
